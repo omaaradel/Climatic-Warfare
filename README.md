@@ -1,6 +1,7 @@
 ## Climatic Warfare - 2D Shooter Game
 
-![realcover](https://github.com/omaaradel/Climatic-Warfare/assets/116403978/04506a83-d50f-498c-828a-89be6bef1a35)
+
+![Uploading CW Snippets2.gif…]()
 
 
 #### Welcome Climatic Warfare, a thrilling 2D shooter game developed using Unity and C#.
